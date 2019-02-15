@@ -23,4 +23,8 @@ class Factor
   def plangPlong(n)
     return "PlangPlong" if n % 35 == 0
   end
+
+  def plingPlangPlong(n)
+    return "PlingPlangPlong" if n % 105 == 0
+  end
 end

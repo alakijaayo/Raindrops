@@ -27,7 +27,7 @@ describe Factor do
   end
 
   it "returns the word 'PlingPlangPlong' if number is divisible by 3, 5 and 7" do
-    expect(subject.plingPlangPlong).to eq("plingPlangPlong")
+    expect(subject.plingPlangPlong(210)).to eq("PlingPlangPlong")
   end
 
 end
