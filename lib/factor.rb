@@ -24,4 +24,9 @@ class Factor
     n % 21 == 0
     return "PlingPlong"
   end
+
+  def plangPlong(n)
+    n % 35 == 0
+    return "PlangPlong"
+  end
 end
