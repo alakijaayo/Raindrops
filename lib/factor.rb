@@ -27,4 +27,8 @@ class Factor
   def plingPlangPlong(n)
     return "PlingPlangPlong" if n % 105 == 0
   end
+
+  def number(n)
+    return "#{n}" if n % 3 != 0 && n % 5 != 0 && n % 7 != 0
+  end
 end
