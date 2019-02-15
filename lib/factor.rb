@@ -9,4 +9,9 @@ class Factor
     n % 5 == 0
     return "Plang"
   end
+
+  def plong(n)
+    n % 7 == 0
+    return "Plong"
+  end
 end
