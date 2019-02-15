@@ -1,5 +1,27 @@
 class Factor
 
+  def check_number(n)
+    if plingPlangPlong?(n)
+      "PlingPlangPlong"
+    elsif plangPlong?(n)
+      "PlangPlong"
+    elsif plingPlong?(n)
+      "PlingPlong"
+    elsif plingPlang?(n)
+      "PlingPlang"
+    elsif pling?(n)
+      "Pling"
+    elsif plang?(n)
+      "Plang"
+    elsif plong?(n)
+      "Plong"
+    else
+      "#{n}"
+    end
+  end
+
+  private
+
   def pling?(n)
     n % 3 == 0
   end
@@ -26,9 +48,5 @@ class Factor
 
   def plingPlangPlong?(n)
     n % 105 == 0
-  end
-
-  def number?(n)
-    n % 3 != 0 && n % 5 != 0 && n % 7 != 0
   end
 end
