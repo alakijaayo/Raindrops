@@ -30,4 +30,8 @@ describe Factor do
     expect(subject.plingPlangPlong(210)).to eq("PlingPlangPlong")
   end
 
+  it "returns the number in string form if number is not divisible by 3, 5 or 7" do
+    expect(subject.number(34)).to eq("34")
+  end
+
 end
