@@ -14,4 +14,9 @@ class Factor
     n % 7 == 0
     return "Plong"
   end
+
+  def plingPlang(n)
+    n % 15 == 0
+    return "PlingPlang"
+  end
 end
