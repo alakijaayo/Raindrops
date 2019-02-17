@@ -23,7 +23,7 @@ This test can be completed in a language of your choice.
 
 - Clone this repository https://github.com/alakijaayo/Raindrops.git
 - Install the gems using `$ bundle install`
-- Run `$ irb` and input `factor = Factor.new`
+- Run `$ irb` and once open, `require './lib/factor'`. Input `factor = Factor.new`
 - To check any number, use `factor.check_number(n)`, inputting a number where n should be.
 - To run tests, input `$ rspec`
 
