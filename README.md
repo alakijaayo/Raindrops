@@ -30,3 +30,7 @@ This test can be completed in a language of your choice.
 ## Challenges
 
 There were not many challenges faced with this, as the test is a bit like FizzBuzz. The extra number, 7, did mean that there were more outputs to test for and make sure that they passed, but that was soon sorted. The one issue that did cause a bit of a problem was refactoring and making sure that my code was easily readable and not bulky, especially after I had a massive 'if' and 'else' statement in my method. Once this was done, felt pretty happy with my code.
+
+## Overall Thoughts
+
+Has been fun to try and test myself out again at a challenge that is similar to 'FizzBuzz' but throws in an additional number, raising the number of possible outcomes to 8 instead of 4. Have also taken the time to write the tech test out in [JavaScript](https://github.com/alakijaayo/Raindrops_JavaScript) as well as [Swift](https://github.com/alakijaayo/Raindrops-Swift) to give myself a bit of a challenge.
