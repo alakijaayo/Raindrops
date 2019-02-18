@@ -5,11 +5,7 @@ class Factor
     output << "Pling" if pling?(n)
     output << "Plang" if plang?(n)
     output << "Plong" if plong?(n)
-    if output.empty?
-      "#{n}"
-    else
-      output
-    end
+    output.empty? ? "#{n}" : output
   end
 
   private
