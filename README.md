@@ -1,6 +1,6 @@
 # Raindrops
 
-This repository is work based on a tech test provided. In it, we are expected to work on the puzzle Raindrops. For this, I have decided to do it in Ruby. Have also challenged myself to do the test in two other languages:
+This repository is work based on a tech test provided. In it, we are expected to work on the puzzle Raindrops. For this, I have decided to do it in Ruby for this repository and then challenged myself to do it in two other languages:
 
 **Raindrops in JavaScript:** https://github.com/alakijaayo/Raindrops_JavaScript
 
@@ -28,13 +28,13 @@ This test can be completed in a language of your choice.
 - Clone this repository https://github.com/alakijaayo/Raindrops.git
 - Install the gems using `$ bundle install`
 - Run `$ irb` and once open, `require './lib/factor'`. Input `factor = Factor.new`
-- To check any number, use `factor.check_number(n)`, inputting a number where n should be.
+- To check any number, use `factor.check_number(n)`, inputting a number in the bracket in place of 'n'
 - To run tests, input `$ rspec`
 
 ## Challenges
 
-There were not many challenges faced with this, as the test is a bit like FizzBuzz. The extra number, 7, did mean that there were more outputs to test for and make sure that they passed, but that was soon sorted. The one issue that did cause a bit of a problem was refactoring and making sure that my code was easily readable and not bulky, especially after I had a massive 'if' and 'else' statement in my method. Once this was done, felt pretty happy with my code.
+There were not many challenges faced with this, as the test is a bit like FizzBuzz. The extra number, 7, did mean that there were more outputs to test for and make sure that they passed, but that was soon sorted. The one issue that did cause a bit of a problem was refactoring and making sure that my code was easily readable and not bulky, especially after I had a massive 'if' and 'else' statement in my method. Once this was done, felt pretty happy with my code, deciding to keep the methods that I had written and store them privately instead of deleting the other methods I had used earlier.
 
 ## Overall Thoughts
 
-Has been fun to try and test myself out again at a challenge that is similar to 'FizzBuzz' but throws in an additional number, raising the number of possible outcomes to 8 instead of 4. Have also taken the time to write the tech test out in [JavaScript](https://github.com/alakijaayo/Raindrops_JavaScript) as well as [Swift](https://github.com/alakijaayo/Raindrops-Swift) to give myself a bit of a challenge.
+Has been fun to try and test myself out again at a challenge that is similar to 'FizzBuzz' but throws in an additional number, raising the number of possible outcomes to 8 instead of 4. Have also taken the time to write the tech test out in [JavaScript](https://github.com/alakijaayo/Raindrops_JavaScript) as well as [Swift](https://github.com/alakijaayo/Raindrops-Swift) to give myself a bit of a challenge. Those did have a few other challenges to face, but were fun to see if I could do and test properly without any issues. 
