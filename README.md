@@ -1,6 +1,6 @@
 # Raindrops
 
-This repository is work based on a tech test provided by Deloitte System Integration. In it, we are expected to work on the puzzle Raindrops. For this, I have decided to do this in Ruby.
+This repository is work based on a tech test provided. In it, we are expected to work on the puzzle Raindrops. For this, I have decided to do this in Ruby.
 
 ## Task
 
