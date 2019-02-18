@@ -1,6 +1,10 @@
 # Raindrops
 
-This repository is work based on a tech test provided. In it, we are expected to work on the puzzle Raindrops. For this, I have decided to do this in Ruby.
+This repository is work based on a tech test provided. In it, we are expected to work on the puzzle Raindrops. For this, I have decided to do it in Ruby. Have also challenged myself to do the test in two other languages:
+
+**Raindrops in JavaScript:** https://github.com/alakijaayo/Raindrops_JavaScript
+
+**Raindrops in Swift:** https://github.com/alakijaayo/Raindrops-Swift
 
 ## Task
 
